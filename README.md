@@ -2,6 +2,14 @@ Automatic install for Epitech basic tools
 
 You just have to donwload init.sh, chmod it if needed, launch it where you want and let it do the job for you.
 
+You need to be sudo to install the different features.
+If you're running the bocal's distrib from Epitech you must not be sudoer.
+You will already have git and zsh installed so don't worry.
+
+THIS WILL INSTALL SOME FEATURES YOU MAY NOT WANT.
+That's not my problem. You should be bright enough to change the code removing/adding features you want.
+
+
 Current files versions:
 
 init.sh:
